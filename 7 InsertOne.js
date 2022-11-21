@@ -1,0 +1,1 @@
+db.collectionname.insertOne({name: "Max"})

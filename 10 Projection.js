@@ -1,0 +1,1 @@
+db.students.find({},{name:1,_id:0})

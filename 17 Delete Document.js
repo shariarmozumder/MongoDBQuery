@@ -1,0 +1,1 @@
+db.product.remove({id:2565})
